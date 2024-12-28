@@ -15,7 +15,7 @@ The prediction accuracy of these models is assessed using performance metrics su
 
 ## **Resources**
 - **Brief Explanation Video**: [Watch on YouTube](https://www.youtube.com/watch?v=7zpEuCTcdKk)  
-- **Google Colab Notebook**: [Access Here](#) *(Insert Google Colab link here)*  
+- **Google Colab Notebook**: [Access Here](https://colab.research.google.com/drive/1VL0ifNoV3PDzXpxta_jsAdap6Vd3NtZw?usp=sharing)
 
 ---
 
