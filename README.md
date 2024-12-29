@@ -1,4 +1,4 @@
-# **Predicting Under-Five Mortality Rate Using Machine Learning Models**
+# **Predicting Under-Five Mortality Rate Using Different Machine Learning Models**
 
 ## **Problem Statement**  
 The project's goal is to use supervised machine learning models to forecast the under-five mortality rate (per 1000 live births). Finding the main causes of infant death throughout the neonatal period and up to age five is the main goal. The study focuses on areas like Southern Asia and Sub-Saharan Africa that have high mortality rates. Mortality rates are modeled and predicted using machine learning models such as:   
